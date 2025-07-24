@@ -6,6 +6,4 @@ The project was structured into three different segments:
 - Thorough design using ER Diagram applications
 - Code implementation using PL/SQL
 
-# Rough Design
 
-This section focuses on creating a rough interpretation of the following database. 
